@@ -86,6 +86,6 @@ def open():
     return data
 if __name__=="__main__":
     app.run(debug=True)
-https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/chromedriver.tgz
-https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/google-chrome.tgz
-heroku/python
+# https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/chromedriver.tgz
+# https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/google-chrome.tgz
+# heroku/python
